@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lite Kalkulator</string>
+    <string name="tambah">Tambahkan</string>
+    <string name="kurang">Kurangkan</string>
+    <string name="bagi">Dibagi</string>
+    <string name="kali">Dikalikan</string>
+    <string name="bil1">Bilangan 1</string>
+    <string name="bil2">Bilangan 2</string>
+    <string name="pangkat">Dipangkatkan</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="tentang_aplikasi">About</string>
+    <string name="copyright">COPYRIGHT</string>
+    <string name="koneksi_error">Koneksi Error</string>
+</resources>
